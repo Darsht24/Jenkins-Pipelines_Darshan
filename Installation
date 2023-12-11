@@ -36,5 +36,5 @@ agent any
 				sh 'sudo systemctl start nginx'
 			}
 		}
-		
+    }
 	}
